@@ -1,10 +1,14 @@
 ### Trideep
 
-B.Sc Mathematics, M.Sc Data Science (St. Xavier's College, Kolkata)
+Math - Markets - ML - Quant Finance
 
-Working toward ML Quant Research — currently active on [WorldQuant Brain](link) and [Numerai](link), building out a research portfolio (backtesting, empirical asset pricing) alongside applied DS work below.
+Explored Maths and Data Science for a while.
 
-**Portfolio:** trideep-portfolio.netlify.app
+Now trying to utilize them in Quantitative Research (building, testing, breaking... and rebuidling)
+
+Currently Figuring things out at WorldQuant BRAIN and Numerai.
+
+**Portfolio** → https://trideep-portfolio.netlify.app/
 
 <!--
 **trideep126/trideep126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
