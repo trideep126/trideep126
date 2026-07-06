@@ -1,12 +1,12 @@
 ### Trideep
 
-Math - Markets - ML - Quant Finance
+Math · Markets · Machine Learning · Quant Research
 
 Explored Maths and Data Science for a while.
 
-Now trying to utilize them in Quantitative Research (building, testing, breaking... and rebuidling)
+Now utilizing them in Quantitative Research - building, testing, breaking... and rebuidling
 
-Currently Figuring things out at WorldQuant BRAIN and Numerai.
+Currently figuring things out at WorldQuant BRAIN and Numerai.
 
 **Portfolio** → https://trideep-portfolio.netlify.app/
 
